@@ -8,6 +8,7 @@ metadata:
     github.com/project-slug: backstage-dummy-org/sml-python-small
     backstage.io/techdocs-ref: dir:.
     onboarding-docs: https://raw.githubusercontent.com/backstage-dummy-org/sml-python-small/master/docs/onboarding.md
+    jira.com/project-key: KEH
   tags:
     - python
     - java
